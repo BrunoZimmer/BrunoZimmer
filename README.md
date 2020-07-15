@@ -16,7 +16,7 @@ You can see since my first project in C Language here, a tetris(I love tetris, y
 Some time later I start coding in Python by myself and built two simple projects that I really like, a Snake and a Pacman, I love games.:video_game::space_invader:
 -->
 
-And then, in 2020, during the pandemic, I did the Rocketseat's Starter Pack to learn Javascript, and I love it, so I did the GoStack Bootcamp, where I improve my skills in JavaScript and learned Node.JS, React and React Native! :purple_heart: :rocket: :purple_heart:
+And then, in 2020, during the pandemic, I did the Rocketseat's Starter Pack to learn Javascript, and I loved it, so I did the GoStack Bootcamp, where I improve my skills in JavaScript and learned Node.JS, React and React Native! :purple_heart: :rocket: :purple_heart:
 
 <!--
 **BrunoZimmer/BrunoZimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
