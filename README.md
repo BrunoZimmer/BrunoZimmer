@@ -10,7 +10,7 @@ I got into university in 2018, so i hope to graduate in 2022.
 
 ### Something about my programming trajectory
 
-You can see since my first project in C Language here, a tetris(I love tetris, you can try to challenge, just try:smiling_imp:), C was my first language, I learned at the university with the best teacher that I ever had.
+You can see since my first project in C Language here, a tetris(I love tetris, you can try to challenge me, just try:smiling_imp:), C was my first language, I learned at the university with the best teacher that I ever had.
 
 <!--
 Some time later I start coding in Python by myself and built two simple projects that I really like, a Snake and a Pacman, I love games.:video_game::space_invader:
