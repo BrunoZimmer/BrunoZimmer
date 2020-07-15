@@ -2,7 +2,7 @@
 
 ### My name is Bruno Zimmer and I'm a eletrical engineering student! Hope u enjoy my GitHub :satisfied:
 
-### Something about me Nowadays
+### Something about me
 
 Today I'm a reasearcher at my university, UFRGS. I research about microeletronic, more especifically, non-volatile memories. :nerd_face:
 
