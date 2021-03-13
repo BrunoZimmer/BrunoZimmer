@@ -1,6 +1,6 @@
 # Welcome 👋
 
-### My name is Bruno Zimmer and I'm a eletrical engineering student! Hope u enjoy my GitHub :satisfied:
+### My name is Bruno Zimmer and I'm a electrical engineering student! Hope u enjoy my GitHub :satisfied:
 
 ### Something about me
 
