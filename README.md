@@ -1,22 +1,22 @@
 # Welcome 👋
 
-### My name is Bruno Zimmer and I'm a electrical engineering student! Hope u enjoy my GitHub :satisfied:
+### My name is Bruno Zimmer and I am a student of electrical engineering in Brazil (UFRGS) and general engineering in France (Ecole Centrale Lille)! Hope you like my GitHub :satisfied:
 
 ### Something about me
 
-Today I'm a reasearcher at my university, UFRGS. I research about microeletronic, more especifically, non-volatile memories. :nerd_face:
+I was a researcher at my university in Brazil, UFRGS. I do research on microelectronics, more specifically, non-volatile memories. : geek face:
 
-I got into university in 2018, so i hope to graduate in 2022.
+I joined UFRGS in 2018 and in 2021 I joined Ecole Centrale Lille
 
 ### Something about my programming trajectory
 
-You can see my first project in C Language here, a tetris(I love tetris, you can try to challenge me, just try:smiling_imp:), C was my first language, I learned at the university with the best teacher that I ever had.
+You can see my first project in C language here, a tetris (I love tetris, you can try to challenge me, just try: smiling_imp :), C was my first language, I learned it at university from the best teacher I ever knew had.
 
 <!--
 Some time later I start coding in Python by myself and built two simple projects that I really like, a Snake and a Pacman, I love games.:video_game::space_invader:
 -->
 
-And then, in 2020, during the pandemic, I did the Rocketseat's Starter Pack to learn Javascript, and I loved it, so I did the GoStack Bootcamp, where I improve my skills in Typescript and learned Node.JS, React and React Native! :purple_heart: :rocket: :purple_heart:
+And then in 2020, during the pandemic, I made the Rocketseat Starter Pack to learn Javascript, and I loved it, so I did the GoStack Bootcamp, where I honed my Typescript skills and learned Node.JS, React and React Native! : purple_heart:: rocket:: purple_heart:
 
 <!--
 **BrunoZimmer/BrunoZimmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
